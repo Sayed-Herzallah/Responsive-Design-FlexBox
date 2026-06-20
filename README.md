@@ -5,8 +5,7 @@ A collection of responsive layouts and cards demonstrating advanced layouts buil
 ---
 
 ## 📌 Overview
-
-**Responsive-Design-FlexBox** is a reference directory highlighting the practical usage of CSS Flexbox. It includes multi-column designs, navigation layouts, and image galleries that adjust dynamically.
+Responsive-Design-FlexBox is a reference directory highlighting the practical usage of CSS Flexbox. It includes multi-column designs, navigation layouts, and image galleries that adjust dynamically.
 
 ---
 
@@ -19,21 +18,22 @@ A collection of responsive layouts and cards demonstrating advanced layouts buil
 
 ---
 
-## 🚀 Key Features
-
+## 🚀 Core Features
 * 📐 **Adaptive Columns:** Auto-wrapping grid cards.
 * 🧭 **Flex Navbars:** Left-aligned logos and right-aligned links.
 * ⚡ **Lightweight CSS:** Zero framework dependencies (Vanilla CSS).
 
 ---
 
-## 👨&zwj;💻 Author
-
-**Sayed Herzallah**  
-Frontend Developer
+## ⚙️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sayed-Herzallah/Responsive-Design-FlexBox.git
+   ```
+2. Open `index.html` in your browser.
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a star on GitHub.
+## 👨‍💻 Author
+**Sayed Herzallah**  
+Full Stack Developer
